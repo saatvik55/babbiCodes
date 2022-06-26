@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch maxsumofdigits",
+            "request": "launch",
+            "mainClass": "codeforces.maxsumofdigits",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch garbage",
+            "request": "launch",
+            "mainClass": "codeforces.garbage",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch board",
+            "request": "launch",
+            "mainClass": "codeforces.board",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "codeforces.string",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch meaninq",
+            "request": "launch",
+            "mainClass": "codeforces.meaninq",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch panel",
+            "request": "launch",
+            "mainClass": "codeforces.panel",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch nitdestroysuni",
+            "request": "launch",
+            "mainClass": "codeforces.nitdestroysuni",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch nit",
+            "request": "launch",
+            "mainClass": "codeforces.nit",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.Codechef",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCDandLCM",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.GCDandLCM",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversalSorting",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.reversalSorting",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch strongElements",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.strongElements",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch hey",
+            "request": "launch",
+            "mainClass": "codechef.hey",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch BSubstringsSort",
+            "request": "launch",
+            "mainClass": "codeforces.BSubstringsSort",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCDLength",
+            "request": "launch",
+            "mainClass": "codeforces.GCDLength",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch VasyaAndDigitalRoot",
+            "request": "launch",
+            "mainClass": "codeforces.VasyaAndDigitalRoot",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch gameOnRanges",
+            "request": "launch",
+            "mainClass": "codeforces.gameOnRanges",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch newColony",
+            "request": "launch",
+            "mainClass": "codeforces.newColony",
+            "projectName": "babbiCodes_6c973d06"
+        }
+    ]
+}

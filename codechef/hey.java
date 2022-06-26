@@ -21,7 +21,7 @@ public class hey {
         int min_ending_here = 0;
         int min_so_far = arr[0];
         int count = 0;
-        for (int i = 1; i < n; i++) {
+         for (int i = 1; i < n; i++) {
             if (min_ending_here > 0)
                 min_ending_here = arr[i];
             else
