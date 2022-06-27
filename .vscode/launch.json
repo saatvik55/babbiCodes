@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch blackAndWhiteStripe",
+            "request": "launch",
+            "mainClass": "codeforces.blackAndWhiteStripe",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch restoringTheDurationOfTasks",
+            "request": "launch",
+            "mainClass": "codeforces.restoringTheDurationOfTasks",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch maxsumofdigits",
             "request": "launch",
             "mainClass": "codeforces.maxsumofdigits",
