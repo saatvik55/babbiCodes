@@ -8,53 +8,41 @@ class strongElements {
         long t = sc.nextLong();
         while (t-- > 0) {
             int n = sc.nextInt();
-            Long[] arr = new Long[n];
+            int[] arr = new int[n];
+            int se = 0;
             Set<Long> set = new HashSet<Long>();
             List<Long> l = new ArrayList<Long>();
             for (int i = 0; i < n; i++) {
-                arr[i] = sc.nextLong();
-                if (isPrime(arr[i]))
-                    {l.add(arr[i]);
-                    set.add(arr[i]);}
+                arr[i] = sc.nextInt();
             }
-            Arrays.sort(arr);
+            // create seperate arrays 
+            int arrfront[] = new int[n];
+            int arrback[] = new int[n];
+            arrfront[0] = arr[0];
+            arrback[n - 1] = arr[n - 1];
+            for (int i = 1; i < arr.length; i++) {
+                arrfront[i] = gcd(arrfront[i - 1], arr[i]);
+            }
+            for (int i = n - 2; i >= 0; i--) {
+                arrback[i] = gcd(arrback[i + 1], arr[i]);
+            }
+            for (int i = 1; i < n - 1; i++) {
 
-            int index = 0;
-            long gcd = GcdOfArray(arr, index);
-
-            if (set.size() >= 2 && n != 2)
-                System.out.println(0 + ((n - set.size() > 0) ? 1 : 0));
-            else
-                System.out.println(n);
-
+                if (gcd(arrfront[i - 1], arrback[i + 1]) > 1)
+                    se++;
+            }
+            if (arrback[1] > 1)
+                se++;
+            if (arrfront[n - 2] > 1)
+                se++;
+            System.out.println(se);
         }
     }
 
-    static long __gcd(long a, long b) {
-        return b == 0 ? a : __gcd(b, a % b);
-    }
-
-    static long GcdOfArray(Long[] arr, int index) {
-        if (index == arr.length - 1) {
-            return arr[index];
-        }
-        long a = arr[index];
-        long b = GcdOfArray(arr, index + 1);
-        return __gcd(
-                a, b);
-    }
-
-    static boolean isPrime(Long n) {
-        // Corner case
-        if (n <= 1)
-            return false;
-
-        // Check from 2 to n-1
-        for (int i = 2; i < n; i++)
-            if (n % i == 0)
-                return false;
-
-        return true;
+    static int gcd(int a, int b) {
+        if (b == 0)
+            return a;
+        return gcd(b, a % b);
     }
 
 }
