@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch threeSum",
+            "request": "launch",
+            "mainClass": "codeforces.threeSum",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch risingsand",
+            "request": "launch",
+            "mainClass": "codeforces.risingsand",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch XORMixup",
+            "request": "launch",
+            "mainClass": "codeforces.XORMixup",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch paranoidString",
+            "request": "launch",
+            "mainClass": "codeforces.Extras.paranoidString",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch interactiveProblem",
+            "request": "launch",
+            "mainClass": "codeforces.Extras.interactiveProblem",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch blackAndWhiteStripe",
             "request": "launch",
             "mainClass": "codeforces.blackAndWhiteStripe",
