@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ternaryMatrix",
+            "request": "launch",
+            "mainClass": "codeforces.ternaryMatrix",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch threenum",
+            "request": "launch",
+            "mainClass": "codeforces.threenum",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch retriveTheArray",
+            "request": "launch",
+            "mainClass": "codechef.retriveTheArray",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch adjSumParity",
+            "request": "launch",
+            "mainClass": "codechef.adjSumParity",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch changePos",
+            "request": "launch",
+            "mainClass": "codechef.changePos",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch threeSum",
             "request": "launch",
             "mainClass": "codeforces.threeSum",
