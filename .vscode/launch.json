@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch scheduleManagement",
+            "request": "launch",
+            "mainClass": "codeforces.scheduleManagement",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutation",
+            "request": "launch",
+            "mainClass": "codeforces.permutation",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch grassField",
+            "request": "launch",
+            "mainClass": "codeforces.grassField",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaryDeque",
+            "request": "launch",
+            "mainClass": "codeforces.binaryDeque",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch ternaryMatrix",
             "request": "launch",
             "mainClass": "codeforces.ternaryMatrix",
