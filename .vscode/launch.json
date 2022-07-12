@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pairIneqality",
+            "request": "launch",
+            "mainClass": "codeforces.pairIneqality",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch doubleStrings",
+            "request": "launch",
+            "mainClass": "codeforces.doubleStrings",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch cypher",
+            "request": "launch",
+            "mainClass": "codeforces.cypher",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch icpcballons",
+            "request": "launch",
+            "mainClass": "codeforces.icpcballons",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch yes",
+            "request": "launch",
+            "mainClass": "codeforces.yes",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch scheduleManagement",
             "request": "launch",
             "mainClass": "codeforces.scheduleManagement",
