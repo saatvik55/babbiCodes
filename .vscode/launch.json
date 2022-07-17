@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch median",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.median",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestFamily",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.largestFamily",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch yetAnotherPalindrome",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.yetAnotherPalindrome",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch easyPronounciation",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.easyPronounciation",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch lastLevels",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.lastLevels",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch TandF",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.TandF",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch design",
+            "request": "launch",
+            "mainClass": "codechef.lunchTime.design",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch markSweeper",
+            "request": "launch",
+            "mainClass": "codeforces.markSweeper",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch markEssay",
+            "request": "launch",
+            "mainClass": "codeforces.markEssay",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch markPhotographer",
+            "request": "launch",
+            "mainClass": "codeforces.markPhotographer",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch pairIneqality",
             "request": "launch",
             "mainClass": "codeforces.pairIneqality",
