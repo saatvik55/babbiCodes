@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch concatSort",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.concatSort",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch perfectSorting",
+            "request": "launch",
+            "mainClass": "codeforces.perfectSorting",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch difGcd",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.difGcd",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch chefInHisOffice",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.chefInHisOffice",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch hungryChef",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.hungryChef",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch divabn",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.divabn",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch divab",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.divab",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfProduct1",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.SumOfProduct1",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insurance",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.Insurance",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch threedoors",
+            "request": "launch",
+            "mainClass": "codeforces.threedoors",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch makingTowers",
+            "request": "launch",
+            "mainClass": "codeforces.makingTowers",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringMinimization",
+            "request": "launch",
+            "mainClass": "codeforces.stringMinimization",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch median",
             "request": "launch",
             "mainClass": "codechef.lunchTime.median",
