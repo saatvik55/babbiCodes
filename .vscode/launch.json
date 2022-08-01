@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch minimumVariedNumber",
+            "request": "launch",
+            "mainClass": "codeforces.minimumVariedNumber",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch prefixRemove",
+            "request": "launch",
+            "mainClass": "codeforces.prefixRemove",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch ev1LovesToSleep",
+            "request": "launch",
+            "mainClass": "codeforces.ev1LovesToSleep",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch concatSort",
             "request": "launch",
             "mainClass": "codechef.LongChallenges.concatSort",
