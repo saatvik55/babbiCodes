@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch copyAndPate",
+            "request": "launch",
+            "mainClass": "codechef.Starters.copyAndPate",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch differentMedians",
+            "request": "launch",
+            "mainClass": "codechef.Starters.differentMedians",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch splitN",
+            "request": "launch",
+            "mainClass": "codechef.Starters.splitN",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch DominantElement",
+            "request": "launch",
+            "mainClass": "codechef.Starters.DominantElement",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch TVDiscount",
+            "request": "launch",
+            "mainClass": "codechef.Starters.TVDiscount",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumprodseg",
+            "request": "launch",
+            "mainClass": "codechef.Starters.sumprodseg",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "codechef.Starters.Test",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch averagePerm",
+            "request": "launch",
+            "mainClass": "codechef.Starters.averagePerm",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutationGCD",
+            "request": "launch",
+            "mainClass": "codechef.Starters.permutationGCD",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch nearestCount",
+            "request": "launch",
+            "mainClass": "codechef.Starters.nearestCount",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch minimumVariedNumber",
             "request": "launch",
             "mainClass": "codeforces.minimumVariedNumber",
