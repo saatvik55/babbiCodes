@@ -16,32 +16,6 @@ class yetAnotherPalindrome {
             Set<Character> c = new HashSet<Character>();
             String s1 = "";
             String s2 = "";
-            int[] freq = new int[str.length()];
-            int i = 0, j;
-            boolean flag = true;
-            char string[] = str.toCharArray();
-
-            // for (char a = 'a'; a <= 'z'; a++) {
-            // for (j = 0; j < str.length(); j++) {
-            // if (str.charAt(j) == a)
-            // freq[i]++;
-            // }
-            // if (freq[i] > 0 && i!=n-1)
-            // i++;
-            // }
-
-            // System.out.println(Arrays.toString(freq));
-
-            // for (int k = 0; k < freq.length; k++) {
-            // if (freq[i] % 2 == 1) {
-            // flag = false;
-            // break;
-            // }
-            // }
-            // if (flag == true)
-            // System.out.println("YES");
-            // else
-            // System.out.println("NO");
             for (int k = 0; k < str.length(); k++) {
                 if (k % 2 == 0)
                     s1 = s1 + str.charAt(k);

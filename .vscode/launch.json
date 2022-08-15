@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch helloEqn",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.helloEqn",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoTrains",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.twoTrains",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch eqyaliseAandB",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.eqyaliseAandB",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch saleSeason",
+            "request": "launch",
+            "mainClass": "codechef.LongChallenges.saleSeason",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch copyAndPate",
             "request": "launch",
             "mainClass": "codechef.Starters.copyAndPate",
