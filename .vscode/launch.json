@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch KFlip",
+            "request": "launch",
+            "mainClass": "codechef.Starters.KFlip",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch griddyGrid",
+            "request": "launch",
+            "mainClass": "codechef.Starters.griddyGrid",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimumSum",
+            "request": "launch",
+            "mainClass": "codechef.Starters.minimumSum",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
+            "name": "Launch waTestCases",
+            "request": "launch",
+            "mainClass": "codechef.Starters.waTestCases",
+            "projectName": "babbiCodes_6c973d06"
+        },
+        {
+            "type": "java",
             "name": "Launch helloEqn",
             "request": "launch",
             "mainClass": "codechef.LongChallenges.helloEqn",
